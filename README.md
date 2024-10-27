@@ -1,3 +1,8 @@
 # Data-Structures-and-Algorithms
 
-Solving DSA problems using Java
+`Solving DSA using Java`
+
+### Problems Solved
+
+- Transpose Matrix
+- Matrix Diagonal Sum
