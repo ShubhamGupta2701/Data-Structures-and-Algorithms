@@ -8,3 +8,4 @@
 
 - Transpose Matrix
 - Matrix Diagonal Sum
+- Square of Sorted Array
