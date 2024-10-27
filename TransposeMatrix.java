@@ -1,5 +1,3 @@
-package DSA;
-
 public class TransposeMatrix {
     public int[][] transpose(int[][] matrix) {
         int r = matrix.length;

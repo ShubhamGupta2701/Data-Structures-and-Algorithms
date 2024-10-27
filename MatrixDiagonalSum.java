@@ -1,4 +1,3 @@
-package DSA;
 class MatrixDiagonalSum {
     public int diagonalSum(int[][] mat) {
         int r = mat.length; // calculate length
