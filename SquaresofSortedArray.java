@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class SquaresofSortedArray {
     public int[] sortedSquares(int[] nums) {
         
@@ -13,7 +15,7 @@ public class SquaresofSortedArray {
         }
 
         // Sorting output array using Arrays.sort() function.
-        //Arrays.sort(output);  uncomment this line before running to sort it in asc order.
+        Arrays.sort(output); 
 
         return output;
     }
