@@ -6,6 +6,6 @@
 
 ### Problems Solved
 
-- Transpose Matrix
-- Matrix Diagonal Sum
-- Square of Sorted Array
+> Transpose Matrix
+> Matrix Diagonal Sum
+> Square of Sorted Array
