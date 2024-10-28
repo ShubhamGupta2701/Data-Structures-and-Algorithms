@@ -17,3 +17,4 @@
 - Rotate Image
 - Palindromic Substrings
 - Find Words Containing Characters
+- Spiral Matrix
