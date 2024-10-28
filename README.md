@@ -6,6 +6,8 @@
 
 ### Problems Solved
 
+- Number of Employees Who Met the Target
+- Richest Customer Wealth
 - Transpose Matrix
 - Matrix Diagonal Sum
 - Square of Sorted Array
