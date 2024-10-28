@@ -13,3 +13,6 @@
 - Segregate 0's and 1's
 - Remove Duplicates from Sorted Array
 - Longest Palindrome Sub String
+- Remove Element
+- Rotate Image
+- Palindromic Substrings
