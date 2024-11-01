@@ -1,6 +1,6 @@
 
 //   Definition for singly-linked list.
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
     ListNode() {}
@@ -8,7 +8,7 @@ public class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-class SpiralMatrix4 {
+public class SpiralMatrix4 {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
         int[][] ans = new int[m][n];
         int index = 0;
