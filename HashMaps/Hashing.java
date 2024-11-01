@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Hashing {
-    public static void Hashing(String[] args) {
+    public static void Hashingfun(String[] args) {
         int[] arr = new int[]{2,3,5,2,1,3,2,7,8,7};
         Arrays.sort(arr);
         int lastIndex = arr.length - 1;
