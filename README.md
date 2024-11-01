@@ -30,3 +30,9 @@ Arrays
 - Spiral Matrix
 - Spiral Matrix II
 - Spiral Matrix IV
+
+```
+Hashing
+```
+
+- Hashing -> to understand how we can create a hashmap and create or find frequency of an element
