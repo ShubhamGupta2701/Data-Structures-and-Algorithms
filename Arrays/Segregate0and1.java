@@ -1,3 +1,4 @@
+package Arrays;
 public class Segregate0and1 {
     void segregate0and1(int[] arr) {
         // code here

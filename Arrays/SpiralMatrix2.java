@@ -1,3 +1,4 @@
+package Arrays;
 public class SpiralMatrix2 {
     public int[][] generateMatrix(int n) {
         int[][] ans = new int[n][n];

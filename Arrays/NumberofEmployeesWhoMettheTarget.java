@@ -1,3 +1,4 @@
+package Arrays;
 public class NumberofEmployeesWhoMettheTarget {
     public int numberOfEmployeesWhoMetTarget(int[] hours, int target) {
         int n = hours.length;

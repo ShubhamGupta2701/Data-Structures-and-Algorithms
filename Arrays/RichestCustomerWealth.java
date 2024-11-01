@@ -1,3 +1,4 @@
+package Arrays;
 public class RichestCustomerWealth {
     public int maximumWealth(int[][] accounts) {
         int n = accounts.length;

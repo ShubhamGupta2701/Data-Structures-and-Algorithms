@@ -1,3 +1,4 @@
+package String;
 public class PalindromicSubstrings {
     public boolean isPalindrome(String s){
         int i=0;
