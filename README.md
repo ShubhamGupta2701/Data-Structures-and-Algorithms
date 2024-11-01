@@ -36,3 +36,4 @@ Hashing
 ```
 
 - Hashing -> to understand how we can create a hashmap and create or find frequency of an element
+- Find the Max Frequency of Letter Present in a String
