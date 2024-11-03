@@ -1,4 +1,4 @@
-package String;
+package Strings;
 public class LongestPalindromeSubString {
     // Optimal approach -> O(N^2)
     public String longestPalindrome(String s) {

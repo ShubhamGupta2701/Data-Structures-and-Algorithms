@@ -1,4 +1,4 @@
-package String;
+package Strings;
 
 public class CircularSentence {
     public boolean isCircularSentence(String sentence) {
