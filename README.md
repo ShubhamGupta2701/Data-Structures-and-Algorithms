@@ -35,7 +35,8 @@ Arrays
 Hashing
 ```
 ```
-Hashing is a list of pairs of (key and value) which denotes the frequecy of unique elements in an Array and String
+Hashing is a list of pairs of (key and value) which denotes the frequecy
+of unique elements in an Array and String
 ```
 - Hashing `To understand how we can create a hashmap and create or find frequency of an element`
 - Find the Max Frequency of Letter Present in a String
