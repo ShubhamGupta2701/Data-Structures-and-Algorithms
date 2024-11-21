@@ -1,4 +1,5 @@
-// LANG: Java
+package Arrays;
+
 // AUTHOR: Ctrl-apk
 // Variables are taken in clear way to understand in better understanding level.
 import java.util.*;
