@@ -12,3 +12,6 @@ public List<Integer> findDisappearedNumbers(int[] nums) {
     }
     return ans;
 }
+
+// Here we use Hashmaps to check wheather an index is present or not
+// if not then we store that index in our ans array and at the end of the loop we return that array.
